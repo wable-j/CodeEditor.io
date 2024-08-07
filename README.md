@@ -1,7 +1,7 @@
 <div align="center">
 
 # Editor.io
-## <link-to-hosted-site>
+## <a href="https://codeeditorio-jugal-wables-projects.vercel.app/" target="_blank">Link to Live Preview</a>
 
 </div>
 
